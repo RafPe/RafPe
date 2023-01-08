@@ -13,7 +13,7 @@
   - https://github.com/RafPe
   - https://hub.docker.com/u/rafpe/
   - https://stackoverflow.com/users/2476347/erpe
-  - https://rafpe.ninja
+  - https://blog.raftech.nl
 
 ## In short:
 - 🔭 I’m currently working on: automation
@@ -22,3 +22,5 @@
 - 🤔 I’m looking for help with: Golang , Embedded C , AWS/Google Cloud , Automation. 
 - 💬 Ask me about: anything related to technology challenges!
 
+## Stats:
+[![My Github stats](https://github-readme-stats.vercel.app/api?username=rafpe&show_icons=true&count_private=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
